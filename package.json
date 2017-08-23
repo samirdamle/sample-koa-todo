@@ -1,0 +1,21 @@
+{
+    "name": "koa-todo",
+    "version": "1.0.0",
+    "description": "A sample todo app using Koa.js",
+    "main": "index.js",
+    "scripts": {
+        "test": "test"
+    },
+    "keywords": [
+        "koa",
+        "node",
+        "docker",
+        "todo"
+    ],
+    "author": "Samir Damle",
+    "license": "MIT",
+    "dependencies": {
+        "koa": "^2.3.0",
+        "koa-router": "^7.2.1"
+    }
+}
